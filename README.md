@@ -16,6 +16,14 @@ Drive Coin integrates with both private and public transportation systems, allow
 
 
 ## Deployment
+### bitkub(Kahosan)
 DriveCoin deployed to: 0x45CA13cf3789Ee88D51d2b8747bf51939A44Cf94
 CoinManager deployed to: 0x6340d0C52aBba6eB8Aa2DDd57319FA95206F9891
-* deployment at Kahosan testnet
+
+### Base (sepolia)
+DriveCoin deployed to: 0xDf254B8764Fe5575EF43C75FD7C2d08db1B3397b
+CoinManager deployed to: 0x3287d70168e09a1542ff10CF36e618AEEC2F2E9C
+
+### Polygon (amoy)
+DriveCoin deployed to: 0xDf254B8764Fe5575EF43C75FD7C2d08db1B3397b
+CoinManager deployed to: 0x3287d70168e09a1542ff10CF36e618AEEC2F2E9C
