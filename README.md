@@ -15,3 +15,7 @@ Utilizes Bitkub Next ID for seamless onboarding, allowing non-Web3 users to part
 Drive Coin integrates with both private and public transportation systems, allowing users to earn rewards for eco-friendly commuting choices. Tokens can be redeemed for benefits like public transport discounts or used within Bangkok’s blockchain ecosystem.
 
 
+## Deployment
+DriveCoin deployed to: 0x45CA13cf3789Ee88D51d2b8747bf51939A44Cf94
+CoinManager deployed to: 0x6340d0C52aBba6eB8Aa2DDd57319FA95206F9891
+* deployment at Kahosan testnet
